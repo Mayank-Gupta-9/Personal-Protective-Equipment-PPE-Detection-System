@@ -20,4 +20,5 @@ This project implements a real-time Personal Protective Equipment (PPE) detectio
 - **Computer Vision**: Applied for safety monitoring and object detection.
 
 ---
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/a9d463b4-2cad-45f8-b9b0-b202583cf17f)
+
